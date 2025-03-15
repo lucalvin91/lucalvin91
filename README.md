@@ -1,10 +1,20 @@
-<h4 align="left">Hi my name is Calvin Lu I am the research program coordinator for the Veteran Health Administration's Complex Exposure Threats Center of Excellence (CETCE) <br><br><br><br><br><br><br><br>....</h4>
+
+###
+
+<h4 align="left">Hi! my name is Calvin Lu, I am the research program coordinator at the Veteran Health Administration's <br>Complex Exposure Threats Center of Excellence (CETCE).   <br><br><br><br><br><br><br><br>....</h4>
 
 ###
 
 <div align="center">
   <img height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"  />
 </div>
+
+###
+
+<p align="left"> 🔬 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
 
 ###
 
@@ -44,6 +54,9 @@
   </a>
   <a href="https://www.linkedin.com/in/calvin-lu-5360743b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+   <a href="(https://github.com/user-attachments/files/19267226/Lu_CV_25.docx)" target="_blank">
+    <img src="📄" height="35"  />
   </a>
 </div>
 
