@@ -2,34 +2,30 @@
 ###
 
 <h4 align="left">Hi! My name is Calvin Lu, I am the research program coordinator at the Veteran Health Administration's <br>Complex Exposure Threats Center of Excellence (CETCE).   <br><br><br><br><br><br><br><br>....</h4>
-
+<hr>
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"  />
 </div>
-
+<hr>
 ###
 
 <p align="left">- 🔬 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<hr>
 ###
-Resume: 
+<p align="left">My Resume & CV </p>
+Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link)
 
 CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link)
-
-
+<hr>
 ###
 
 <p align="left">My Skills</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
@@ -44,7 +40,7 @@ CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/vie
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
-
+<hr>
 ###
 
 <p align="left">My Contact</p>
@@ -59,14 +55,7 @@ CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/vie
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
+<hr>
 
 ###
 
