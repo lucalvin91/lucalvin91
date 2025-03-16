@@ -2,11 +2,12 @@
 Hello! 👋 <br>
 I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently leading a multi-data research protocol titled <i>Veteran Occupational and Deployment-Related <ins>Exposu</ins>re <ins>E</ins>valuation and <ins>R</ins>isk <ins>S</ins>tratification (Exposu-ERS)</i> to examine the relationships between biophysiological markers, subjective ratings of health, electronic health records, and past military environmental exposure records to assess the health state of Veterans with unique military related exposure medical conditions. <br>  
 <br>
-My research philosophy is to produce generalizable findings that can solve problems or improve real-world situations. I enjoy bridging the gap between theory and practice, I lead research initiatives that can address clinical needs and improve health care. A second research philosophy is to ensure my findings are easy to understand via <i>keep it short and sweet</i> (KISS). I pride myself on ensuring a simple knowledge transfer, particularly for individuals without an academic or science background. The last research philosophy is <i>teamwork makes the dream work</i>. I know research is challenging and takes a village to achieve great results. I enjoy cross collaboration and hearing new ideas or perspectives from experts in different fields. I am passionate about making a difference and improving the lives of the community I serve through research designs and data analytics.  <br>
+My research philosophy is to produce generalizable findings that can solve problems or improve real-world situations. I enjoy bridging the gap between theory and practice, I lead research initiatives that can address clinical needs and improve health care. A second research philosophy is to ensure my findings are easy to understand via <i>keep it short and sweet</i> (KISS). I pride myself on ensuring a simple knowledge transfer, particularly for individuals without an academic or science background. The last research philosophy is <i>teamwork makes the dream work</i>. I know conducting research is challenging, especially in the modern era, it takes a village to achieve great results. I enjoy cross collaboration and hearing new perspectives from experts in different fields. <br> 
 
 <p align="center">
-<img align="center" height="175" src="https://rapunzelscrafts.wordpress.com/wp-content/uploads/2014/09/figment.jpg"/>
-</div>
+<img align="center" height="175" src="https://rapunzelscrafts.wordpress.com/wp-content/uploads/2014/09/figment.jpg"/> 
+<br>
+✨I am passionate about improving the lives of the community I serve through innovative research and data analytics.✨ 
 <hr>
 
 <p align="justify">
