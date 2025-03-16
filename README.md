@@ -29,7 +29,7 @@ About Me<br>
 <br>
 😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis. <br>
 <br>
-⛳ In my free time: I like to play 🏌golf and finding the best 🍦ice cream in the DMV area. <br>
+⛳ In my free time: I like to play golf🏌and finding the best ice cream🍦in the DMV area. <br>
 <hr>
 
 <p align="left">
