@@ -1,6 +1,6 @@
 <p align="justify">Hello! 👋 <br>I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently operating a multi-data research protocol to examine the relationship between objective biophysiological markers, subjective ratings of health, health outcomes from electronic health records, and past military environmental exposure records to assess the health state of post-deployed Veterans with complex medical conditions.   
 <br><br>
-My research philosophy is....... 
+My research philosophy is to produce generalizable findings to solve problems or improve real-world situations. I enjoy bridging the gap between theory and practice, leading brainstorming sessions to address clinical needs and formulating into research initiatives. 
 
 
 <p align="center">
@@ -19,6 +19,8 @@ My research philosophy is.......
   🚀 I’m working on: <br>
   1️⃣ Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The instrument now has enhanced UX and UI features. <br>
   2️⃣ Exploring the use of natural language processing (NLP) for named entity recognition (NER) and text classification (TC) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
+  <br>
+  🗓️ I recently attended: OpenText Government Summit Information Reimagined (2025)<br>
   <br>
   💭 I'm currently learning: <br>
   1️⃣ How to apply neural network machine learning models to understand symptom pathology of Veterans with complex medical conditions.<br>
