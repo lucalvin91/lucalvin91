@@ -1,11 +1,8 @@
-
-<div>
-
-<p align="justify">I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently operating a multi-data research protocol to examine the relationship between objective biophysiological markers, subjective ratings of health, health outcomes from electronic health records, and past military environmental exposure records to assess the health state of post-deployed Veterans with complex medical conditions.   
+<p align="justify">👋 Hello! <br>I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently operating a multi-data research protocol to examine the relationship between objective biophysiological markers, subjective ratings of health, health outcomes from electronic health records, and past military environmental exposure records to assess the health state of post-deployed Veterans with complex medical conditions.   
 <br><br>
 My research philosophy is....... 
 
-<br><br>
+
 <p align="center">
 <img align="center" height="175" src="https://rapunzelscrafts.wordpress.com/wp-content/uploads/2014/09/figment.jpg"/>
 </div>
