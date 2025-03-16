@@ -13,7 +13,7 @@ My research philosophy is to produce generalizable findings that can solve probl
 About Me<br>
 🧠 I recently finished:<br>
 ✅ Applying structural Equation Modeling (SEM) to identify significant constructs attributing to Veterans' resiliency. <br>
-✅ Developing machine learning (ML) with a mixed effect approach to inform the likelihood of Veterans experiencing suicide ideations. <br>
+✅ Utilizing machine learning (ML) with a mixed effect approach to inform the likelihood of Veterans experiencing suicide ideations. <br>
 ✅ Investigating the multifaceted benefits prescription hearing aid provides for Veterans with high blast exposure history.  <br>
 ✅ Exploring the concept of mindfulness through electroencephalography (EEG), capturing the underlying neurological features. <br>
 <br>
