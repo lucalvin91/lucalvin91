@@ -33,7 +33,7 @@ My research philosophy is to produce generalizable findings to solve problems or
 1️⃣ Psychophysiology: Promotion of Psychomotor Efficiency Through Autonomic Regulations when Performing Under Pressure. <br>
 2️⃣ Cancer: <ins>Pro</ins>ject for <ins>M</ins>ilitary <ins>E</ins>xposures and <ins>T</ins>oxin <ins>H</ins>istory <ins>E</ins>valuation in <ins>US</ins> Service Members (PROMETHEUS).<br>
 3️⃣ Intervention: Chinese Acupuncture and Mindfulness for sleep, Health Function, and Quality of Life in Veterans with Gulf War Illness. <br>
-4️⃣ Testing Exercise Response Reflecting Allostatic Profile in Veterans (TERRAPINS)<br>
+4️⃣ Evaluation: <ins>T</ins>testing <ins>E</ins>exercise <ins>R</ins>response <ins>R</ins>deflecting <ins>A</ins>llostatic <ins>P</ins>rofile in Vetera<ins>ns</ins> (TERRAPINS)<br>
 <hr>
 <p align="left">My Skills 🛠</p>
 <div align="left">
