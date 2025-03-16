@@ -35,7 +35,7 @@ Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_
 
 CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link)
 
-email: [📧](lu.calvin91@gmail.com)
+email: [📧](mailto:lu.calvin91@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <hr>
 <p align="left">My Skills 🛠</p>
