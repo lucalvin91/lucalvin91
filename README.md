@@ -35,6 +35,8 @@ Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_
 
 CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link)
 
+email: [📧](mailto:lu.calvin91@gmail.com)
+
 <a href="mailto:lu.calvin91@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <hr>
