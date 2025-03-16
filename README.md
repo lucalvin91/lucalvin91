@@ -14,20 +14,10 @@ My research philosophy is.......
 
 <p align="justify">
   🧠 I recently finished:<br>
-  ✅ Applying structural Equation Modeling (SEM) to identify significant constructs attributing to Veterans' resiliency. This data-driven approach informed which construct to target for effective intervention strategies to promote positive mental health. <br>
-  ✅ Developed predictive machine learning model (ML), using a mixed effect approach, to inform the likelihood of Veterans experiencing suicide ideations through neurobehavioral symptom burden and quality of life. <br>
-  ✅ Investigated the multifacet benefits prescription hearing aid provides for Veterans with high blast exposure history.  <br>
-  ✅ Exploring the concept of mindfulness through electroencephalography (EEG). Using brain waves to understand the underlying features of proactive and reactive mindfulness.<br>
-<br> 
-or
-<br>
-<br> 
   ✅ Applying structural Equation Modeling (SEM) to identify significant constructs attributing to Veterans' resiliency. <br>
   ✅ Developed machine learning model (ML), using a mixed effect approach, to inform the likelihood of Veterans experiencing suicide ideations. <br>
-  ✅ Investigated the multifacet benefits prescription hearing aid provides for Veterans with high blast exposure history.  <br>
-  ✅ Exploring the concept of mindfulness through electroencephalography (EEG). <br>
-
-  
+  ✅ Investigated the multifaceted benefits prescription hearing aid provides for Veterans with high blast exposure history.  <br>
+  ✅ Exploring the concept of mindfulness through electroencephalography (EEG), capturing the underlying neurological features. <br>
   <br>
   🚀 I’m working on: <br>
   1️⃣ Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The instrument now has enhanced UX and UI features. <br>
