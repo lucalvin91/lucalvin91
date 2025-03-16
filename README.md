@@ -14,6 +14,9 @@
 <p align="left">- 🔬 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
+Resume: 
+
+CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link)
 
 
 ###
