@@ -7,7 +7,7 @@ My research philosophy is.......
 
 <br><br>
 <p align="center">
-<img align="center" height="150" src="https://rapunzelscrafts.wordpress.com/wp-content/uploads/2014/09/figment.jpg"/>
+<img align="center" height="175" src="https://rapunzelscrafts.wordpress.com/wp-content/uploads/2014/09/figment.jpg"/>
 </div>
 <hr>
 
