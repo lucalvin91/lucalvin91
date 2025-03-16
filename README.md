@@ -67,7 +67,7 @@ My Notable Projects💡<br>
   <img width="12" />
 </div>
 <hr> 
-<p align="justify">My Work History & Contact </p>
+<p align="justify">My Info ☎️ </p>
 
 Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link) <br>
 CV: $~~~~~~~~~$ [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link) <br>
