@@ -18,7 +18,7 @@ My research philosophy is to produce generalizable findings to solve problems or
   <br>
   🚀 I’m working on: <br>
   1️⃣ Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The instrument now has enhanced UX and UI features. <br>
-  2️⃣ Exploring the use of natural language processing (NLP) for named entity recognition (NER) and text classification (TC) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
+  2️⃣ Exploring the use of natural language processing (NLP) for named entity recognition (NER) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
   <br>
   🗓️ I recently attended: OpenText Government Summit Information Reimagined (2025)<br>
   <br>
