@@ -30,7 +30,7 @@ My research philosophy is.......
   😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis.<br><br>
   ⛳ In my free time I like to play golf🏌️, watch sports🏈 & movies🎥, and find the best ice cream🍦in the DMV area.<br>
 <hr>
-<p align="left">My work history & contact </p>
+<p align="left">Work history & contact </p>
 
 Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link)
 
