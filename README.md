@@ -13,7 +13,7 @@ My research philosophy is.......
 
 
 <p align="justify">
-  🧠 What I recently finished:<br>
+  🧠 I recently finished:<br>
     1) Applying structural Equation Modeling (SEM) to analyze the complex relationship of mental health resilience in Veterans and mental health disorders such as PTSD or depression. The SEM successfully identified significant constructs attributing to an individual's resilience, and identified intervention strategies for Veterans to improve their mental resilience to reduce their mental health symptom burden. <br>
   2) Developed predictive machine learning model using a mixed effect approach to inform the likelihood of Veterans expressing suicide ideations. By leveraging simple surveys that are sent to Veterans on a quarterly frequency. The model utilizes features such as PTSD and neurological symptom severity, and quality of life can inform health care providers if the Veteran is at risk of suicide. <br> 
   3) Exploring the concept of mindfulness through electroencephalography (EEG). Using brain waves to understand the biophysiological features of proactive and reactive mindfulness.<br>
@@ -22,7 +22,7 @@ My research philosophy is.......
   1) Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The new iteration includes enhancements to the UX and UI features of the instrument. <br>
   2) Exploring the use of natural language processing (NLP) for named entity recognition (NER) and text classification (TC) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
   <br>
-  📚 I'm currently learning: <br>
+  💭 I'm currently learning: <br>
   1) How to apply and develop neural network machine learning models to potentially triage Veterans who need care immediately.<br>
   2) New wearable technology that is just released or being developed that our center can leverage to improve telehealth capabilities and remote data research data collection.<br>
   <br>
