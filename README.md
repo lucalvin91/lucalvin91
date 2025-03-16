@@ -24,7 +24,7 @@ My research philosophy is.......
   <br>
   💭 I'm currently learning: <br>
   1️⃣ How to apply neural network machine learning models to understand symptom pathology of Veterans with complex medical conditions.<br>
-  2️⃣ What new wearable technology I can leverage to improve telehealth capabilities and remote research data collection.<br>
+  2️⃣ What new wearable technology can I employ to improve telehealth capabilities and remote research data collection.<br>
   <br>
   😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis.<br><br>
   ⛳ In my free time I like to play golf, watch sports & movies, and go for a drive.<br>
