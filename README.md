@@ -3,11 +3,10 @@
 
 <h4 align="left">Hi! My name is Calvin Lu, I am the research program coordinator at the Veteran Health Administration's <br>Complex Exposure Threats Center of Excellence (CETCE).   <br><br><br><br><br><br><br><br>
 
-  
-<hr>
-<div align="left">
+<h4 align="left">
   I Love Dinosaurs<br>
-  <img height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"  />
+  <img height="150" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+
 </div>
 <hr>
 
@@ -48,11 +47,7 @@ CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/vie
 </div>
 
 <hr>
-
-
 <p align="left">My Contact</p>
-
-
 <div align="left">
   <a href="lu.calvin91@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -62,7 +57,6 @@ CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/vie
   </a>
 </div>
 <hr>
-
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/lucalvin91/count.svg?"  />
