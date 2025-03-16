@@ -27,7 +27,7 @@ My research philosophy is.......
   2️⃣ What new wearable technology can I employ to improve telehealth capabilities and remote research data collection.<br>
   <br>
   😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis.<br><br>
-  ⛳ In my free time I like to play golf, watch sports & movies, and find the best ice cream in the DMV area.<br>
+  ⛳ In my free time I like to play golf🏌️, watch sports🏈 & movies🎥, and find the best ice cream🍦in the DMV area.<br>
 <hr>
 <p align="left">My work history & contact </p>
 
