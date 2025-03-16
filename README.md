@@ -23,8 +23,8 @@ My research philosophy is.......
   2) Exploring the use of natural language processing (NLP) for named entity recognition (NER) and text classification (TC) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
   <br>
   💭 I'm currently learning: <br>
-  1) How to apply and develop neural network machine learning models to potentially triage Veterans who need care immediately.<br>
-  2) New wearable technology that is just released or being developed that our center can leverage to improve telehealth capabilities and remote data research data collection.<br>
+  1) How to apply and develop neural network machine learning models for the Department of Veterans Affairs.<br>
+  2) What new wearable technology has just released or is under development that I can leverage to improve telehealth capabilities and remote data research data collection.<br>
   <br>
   😎 Fun fact: My wife and I are HUGE Disney fans and we have two Corgis.<br><br>
   ⛳ In my free time I like to play golf, watch sports & movies, and go for a drive.<br>
