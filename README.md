@@ -1,4 +1,4 @@
-<p align="justify">Hello! 👋 <br>I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently operating a multi-data research protocol to examine the relationship between objective biophysiological markers, subjective ratings of health, health outcomes from electronic health records, and past military environmental exposure records to assess the health state of post-deployed Veterans with complex medical conditions.   
+<p align="justify">Hello! 👋 <br>I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently leading a multi-data research protocol titled <i>Veteran Occupational and Deployment-Related <ins>Exposu</ins>re <ins>E</ins>valuation and <ins>R</ins>isk <ins>S</ins>tratification (Exposu-ERS)</i> to examine the relationships between biophysiological markers, subjective ratings of health, electronic health records, and past military environmental exposure records to assess the health state of Veterans with unique military related exposure medical conditions.   
 <br><br>
 My research philosophy is to produce generalizable findings to solve problems or improve real-world situations. I enjoy bridging the gap between theory and practice, leading brainstorming sessions to address clinical needs and formulating into research initiatives. 
 
@@ -27,17 +27,15 @@ My research philosophy is to produce generalizable findings to solve problems or
   2️⃣ What new wearable technology can I employ to improve telehealth capabilities and remote research data collection.<br>
   <br>
   😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis.<br><br>
-  ⛳ In my free time I like to play golf🏌️, watch sports🏈 & movies🎥, and find the best ice cream🍦in the DMV area.<br>
+  ⛳ In my free time: I like to play 🏌golf, watch 🏈sports & 🎥movies, and find the best 🍦ice cream in the DMV area.<br>
 <hr>
-<p align="justify">My work history & contact </p>
-
-Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link) <br>
-CV: $~~~~~~~~~$ [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link) <br>
-email: $~~~~$ [📧](mailto:lu.calvin91@gmail.com)
-
+<p align="left">Notable research projects💡<br>
+1️⃣ Psychophysiology: Promotion of Psychomotor Efficiency Through Autonomic Regulations when Performing Under Pressure. <br>
+2️⃣ Cancer: Project for Military Exposures and Toxin History Evaluation in US Service Members (PROMETHEUS).<br>
+3️⃣ Intervention: Chinese Acupuncture and Mindfulness for sleep, Health Function, and Quality of Life in Veterans with Gulf War Illness. <br>
+4️⃣ <br>
 <hr>
 <p align="left">My Skills 🛠</p>
-
 <div align="left">
     <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
@@ -64,7 +62,12 @@ email: $~~~~$ [📧](mailto:lu.calvin91@gmail.com)
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
   <img width="12" />
 </div>
+<hr> 
+<p align="justify">My work history & contact </p>
 
+Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link) <br>
+CV: $~~~~~~~~~$ [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link) <br>
+email: $~~~~$ [📧](mailto:lu.calvin91@gmail.com)
 <hr>
 <p align="center">
 🦖 I Love Dinosaurs 🦕<br>
