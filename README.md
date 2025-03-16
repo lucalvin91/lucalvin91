@@ -73,7 +73,8 @@ email: [📧](mailto:lu.calvin91@gmail.com)
 </div>
 
 <hr>
- I Love Dinosaurs<br>
+<p align="center">
+🦖 I Love Dinosaurs 🦕<br>
   <img height="150" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 
 <div align="center">
