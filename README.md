@@ -1,7 +1,7 @@
 
 ###
 
-<h4 align="left">Hi! My name is Calvin Lu, I am the research program coordinator at the Veteran Health Administration's <br>Complex Exposure Threats Center of Excellence (CETCE).   <br><br><br><br><br><br><br><br>....</h4>
+<h4 align="left">Hi! My name is Calvin Lu, I am the research program coordinator at the Veteran Health Administration's <br>Complex Exposure Threats Center of Excellence (CETCE).   <br><br><br><br><br><br><br><br>....
 <hr>
 ###
 
