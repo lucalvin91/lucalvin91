@@ -19,7 +19,7 @@ My research philosophy is.......
   3) Exploring the concept of mindfulness through electroencephalography (EEG). Using brain waves to understand the biophysiological features of proactive and reactive mindfulness.<br>
   <br>
   🚀 I’m working on: <br>
-  1) Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The new iteration includes enhancements to the UX and UI features of the instrument. <br>
+  1) Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The new iteration is focused on enhancing the UX and UI features of the instrument. <br>
   2) Exploring the use of natural language processing (NLP) for named entity recognition (NER) and text classification (TC) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
   <br>
   💭 I'm currently learning: <br>
@@ -34,6 +34,8 @@ My research philosophy is.......
 Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link)
 
 CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link)
+
+email: [📧](mailto:lu.calvin91@gmail.com)
 
 <hr>
 <p align="left">My Skills 🛠</p>
@@ -80,7 +82,3 @@ CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/vie
   <img src="https://profile-counter.glitch.me/lucalvin91/count.svg?"  />
 </div>
 
-<!---
-lucalvin91/lucalvin91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
