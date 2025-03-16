@@ -30,11 +30,11 @@ My research philosophy is.......
   😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis.<br><br>
   ⛳ In my free time I like to play golf🏌️, watch sports🏈 & movies🎥, and find the best ice cream🍦in the DMV area.<br>
 <hr>
-<p align="justify">Work history & contact </p>
+<p align="justify">My work history & contact </p>
 
 Resume: [📄](https://drive.google.com/file/d/146sUNwxtiTswX-VjBe7MyYKPzmmncgC_/view?usp=drive_link) <br>
-CV:     [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link) <br>
-email:  [📧](mailto:lu.calvin91@gmail.com)
+CV: $~~~~~~~~~$ [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/view?usp=drive_link) <br>
+email: $~~~~$ [📧](mailto:lu.calvin91@gmail.com)
 
 <hr>
 <p align="left">My Skills 🛠</p>
