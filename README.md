@@ -1,5 +1,4 @@
 <p align="justify">
-Hello! 👋 <br>
 I am Dr. Calvin Lu, the research program coordinator at the Complex Exposure Threats Center of Excellence (CETCE) for the Department of Veterans Affairs. I have strong scientific knowledge in cognitive neuroscience and physiology, data analytics, and program management. I am currently leading a multi-data research protocol titled <i>Veteran Occupational and Deployment-Related <ins>Exposu</ins>re <ins>E</ins>valuation and <ins>R</ins>isk <ins>S</ins>tratification (Exposu-ERS)</i> to examine the relationships between biophysiological markers, subjective ratings of health, electronic health records, and past military environmental exposure records to assess the health state of Veterans with unique military related exposure medical conditions. <br>  
 <br>
 My research philosophy is to produce generalizable findings that can solve problems or improve real-world situations. I enjoy bridging the gap between theory and practice, I lead research initiatives that can address clinical needs and improve health care. A second research philosophy is to ensure my findings are easy to understand via <i>keep it short and sweet</i> (KISS). I pride myself on ensuring a simple knowledge transfer, particularly for individuals without an academic or science background. The last research philosophy is <i>teamwork makes the dream work</i>. I know conducting research is challenging, especially in the modern era, it takes a village to achieve great results. I enjoy cross collaboration and hearing new perspectives from experts in different fields. <br> 
@@ -7,22 +6,22 @@ My research philosophy is to produce generalizable findings that can solve probl
 <p align="center">
 <img align="center" height="175" src="https://rapunzelscrafts.wordpress.com/wp-content/uploads/2014/09/figment.jpg"/> 
 <br>
-✨I am passionate about improving the lives of the community I serve through innovative research and data analytics.✨ 
+✨I am passionate about applying innovative research and data analytics to improve lives of people in the community.✨ 
 <hr>
 
 <p align="justify">
 About Me<br>
 🧠 I recently finished:<br>
 ✅ Applying structural Equation Modeling (SEM) to identify significant constructs attributing to Veterans' resiliency. <br>
-✅ Developed machine learning model (ML), using a mixed effect approach, to inform the likelihood of Veterans experiencing suicide ideations. <br>
-✅ Investigated the multifaceted benefits prescription hearing aid provides for Veterans with high blast exposure history.  <br>
+✅ Developing machine learning (ML) with a mixed effect approach to inform the likelihood of Veterans experiencing suicide ideations. <br>
+✅ Investigating the multifaceted benefits prescription hearing aid provides for Veterans with high blast exposure history.  <br>
 ✅ Exploring the concept of mindfulness through electroencephalography (EEG), capturing the underlying neurological features. <br>
 <br>
 🚀 I’m working on: <br>
 1️⃣ Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The instrument now has enhanced UX and UI features. <br>
 2️⃣ Exploring the use of natural language processing (NLP) for named entity recognition (NER) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
 <br>
-🗓️ I recently attended: OpenText Government Summit Information Reimagined (2025). <br>
+🗓️ I recently attended: OpenText Government Summit Information Reimagined (2025) <br>
 <br>
 💭 I'm currently learning: <br>
 1️⃣ How to apply neural network machine learning models to understand symptom pathology of Veterans with complex medical conditions. <br>
@@ -30,7 +29,7 @@ About Me<br>
 <br>
 😎 Fun fact: My wife and I are HUGE Disney fans and have two Corgis. <br>
 <br>
-⛳ In my free time: I like to play 🏌golf, watch 🏈sports & 🎥movies, and find the best 🍦ice cream in the DMV area. <br>
+⛳ In my free time: I like to play 🏌golf and finding the best 🍦ice cream in the DMV area. <br>
 <hr>
 
 <p align="left">
