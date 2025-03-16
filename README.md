@@ -46,7 +46,7 @@ CV: [📑](https://drive.google.com/file/d/1yba6Utbz-Nh60Z7Cs_Ra09VDN_ioidng/vie
 
 <hr>
  I Love Dinosaurs<br>
-  <img height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+  <img height="150" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/lucalvin91/count.svg?"  />
