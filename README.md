@@ -14,12 +14,12 @@ My research philosophy is.......
 
 <p align="justify">
   🧠 I recently finished:<br>
-    1) Applying structural Equation Modeling (SEM) to analyze the complex relationship of mental health resilience in Veterans and mental health disorders such as PTSD or depression. The SEM successfully identified significant constructs attributing to an individual's resilience, and identified intervention strategies for Veterans to improve their mental resilience to reduce their mental health symptom burden. <br>
-  2) Developed predictive machine learning model using a mixed effect approach to inform the likelihood of Veterans expressing suicide ideations. By leveraging simple surveys that are sent to Veterans on a quarterly frequency. The model utilizes features such as PTSD and neurological symptom severity, and quality of life can inform health care providers if the Veteran is at risk of suicide. <br> 
+    1) Applying structural Equation Modeling (SEM) to identify significant constructs attributing to Veterans' resiliency. This data-driven approach informed which construct to target for effective intervention strategies to promote positive mental health. <br>
+  2) Developed predictive machine learning model (ML), using a mixed effect approach, to inform the likelihood of Veterans experiencing suicide ideations through neurobehavioral symptom burden and quality of life. <br>
   3) Exploring the concept of mindfulness through electroencephalography (EEG). Using brain waves to understand the biophysiological features of proactive and reactive mindfulness.<br>
   <br>
   🚀 I’m working on: <br>
-  1) Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The new iteration is focused on enhancing the UX and UI features of the instrument. <br>
+  1) Preparing to launch the second phase of the <ins>V</ins>eterans <ins>M</ins>ilitary <ins>O</ins>ccupational and Environmental <ins>A</ins>ssessment <ins>T</ins>ool (VMOAT). The instrument now has enhanced UX and UI features. <br>
   2) Exploring the use of natural language processing (NLP) for named entity recognition (NER) and text classification (TC) on ICD10 codes to identify commonality for particular military occupation, deployment location, or toxic exposure histories. <br>
   <br>
   💭 I'm currently learning: <br>
